@@ -2,6 +2,6 @@
 using namespace std;
 
 int main(){
-    cout<<"hai bro"<<endl;
+    cout<<"hai bro n sis"<<endl;
 }
 
